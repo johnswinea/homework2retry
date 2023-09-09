@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "neighborhoodtrailentrance",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.991885156922336, 35.982385437584604 ], [ -78.992116114655744, 35.982398268569796 ], [ -78.992282917463214, 35.982308451673468 ], [ -78.992398396329918, 35.9822699587179 ], [ -78.992475382241068, 35.982257127732709 ] ] ] } }
+]
+}
